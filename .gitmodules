@@ -1,0 +1,6 @@
+[submodule "lib/who-actually-reads-instructions"]
+	path = lib/who-actually-reads-instructions
+	url = https://github.com/veryslowcode/who-actually-reads-instructions.git
+[submodule "lib/debates-are-just-fancy-arguments"]
+	path = lib/debates-are-just-fancy-arguments
+	url = https://github.com/veryslowcode/debates-are-just-fancy-arguments.git
